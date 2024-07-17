@@ -36,5 +36,11 @@
 
 1. **Node.js와 npm 설치**
    ```sh
-   sudo apt update
-   sudo apt install nodejs npm
+   git clone  https://github.com/buseonghyeon/Pharmacy_list.git
+   cd nodejs_pharmacy
+   npm install
+   
+2. **실행 방법**
+   ```sh
+   nodejs_pharmacy
+   node index.js
