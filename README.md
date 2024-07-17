@@ -1,9 +1,8 @@
-# WaterMelon 프로젝트
+# Pharmacy_list 프로젝트
 
-![WaterMelon 로고](https://github.com/est3Jun/dev-mode/blob/a49df01fc405882261489b2346abfa7ce249d5ad/application/client/images/%EB%A1%9C%EA%B3%A0.png)
 
 ### 📖 프로젝트 개요
-WaterMelon은 JavaScript로 구현된 프로젝트로, 약국 위치 및 정보를 지도 상에 표시하는 서비스를 제공합니다.
+약국어디?는 JavaScript로 구현된 프로젝트로, 약국 위치 및 정보를 지도 상에 표시하는 서비스를 제공합니다.
 <br/><br/>
 
 ### 🚀 프로젝트 목표
@@ -23,7 +22,7 @@ WaterMelon은 JavaScript로 구현된 프로젝트로, 약국 위치 및 정보�
 
 ## 📝 프로젝트 설명
 
-### 💼 WaterMelon의 기능
+### 💼 Home화면
 📌 약국 위치 표시<br/>
 - **사용자의 현재 위치를 기반으로 약국 표시:** 사용자의 현재 위치를 기반으로 근처 약국을 지도에 표시<br/>
 - **약국 정보 제공:** 약국의 이름, 주소, 전화번호 및 영업시간 제공<br/><br/><br/>
